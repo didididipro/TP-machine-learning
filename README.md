@@ -11,7 +11,6 @@
 
 - **modelisation.py**  
   Script Python contenant le code de modélisation
-  *Taille : 3 KB*  
 
 - **Rapport.docx**  
   Document Word contenant le rapport du travail
