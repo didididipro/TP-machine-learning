@@ -1,6 +1,4 @@
-# Projet Machine Learning
-
-Ce dépôt contient des fichiers liés à un projet de machine learning. Voici une description des éléments présents :
+# Travail Machine Learning
 
 ## Contenu
 
