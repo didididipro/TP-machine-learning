@@ -17,3 +17,7 @@
 
 - **Rapport.pdf**  
   Version PDF du rapport.  
+
+### Deploiment
+- **Lien de l'application**  
+  [Link Text](https://tp-machine-learning-groupe-2.onrender.com/)  
